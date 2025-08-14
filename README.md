@@ -119,40 +119,60 @@ This shows the Streamlit interface with drag-and-drop upload for MRI scans.
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/f0988610-af30-496a-88af-709194f69c2a" />
 
 ## 🖼 Screenshots 
-**MRI Samples**
-- Dataset Images
-  <img width="600"  alt="image" src="https://github.com/user-attachments/assets/37af0600-5e61-4605-8e4e-979cfab064fa" />
 
-- Training Dataset countplot
-  <img width="500"  alt="image" src="https://github.com/user-attachments/assets/95345f68-4ecb-4416-9091-9a60df047f89" />
-- Testing Dataset countplot
-  <img width="600"  alt="image" src="https://github.com/user-attachments/assets/917357a9-2345-4240-b274-ccef09791a1b" />
-  
+**MRI Samples**
+- Dataset Images  
+  ![Dataset Images](https://github.com/user-attachments/assets/37af0600-5e61-4605-8e4e-979cfab064fa)  
+  *Dataset Images*
+
+- Training Dataset countplot  
+  ![Training Dataset countplot](https://github.com/user-attachments/assets/95345f68-4ecb-4416-9091-9a60df047f89)  
+  *Training Dataset countplot*
+
+- Testing Dataset countplot  
+  ![Testing Dataset countplot](https://github.com/user-attachments/assets/917357a9-2345-4240-b274-ccef09791a1b)  
+  *Testing Dataset countplot*
+
+---
 
 **Model Training & Evaluation**
-1. Transfer Learning (Xception)
-   - Accuracy improvement over epochs
-     <img width="600"  alt="image" src="https://github.com/user-attachments/assets/6d69a7eb-dd34-4cba-8bbd-2fe00d0663c3" />
-   -  Loss reduction over epochs
-      <img width="600" alt="image" src="https://github.com/user-attachments/assets/cdd93c88-deda-442f-ba13-ea75840feff7" />
-2. Custom CNN
-   - Accuracy improvement over epochs
-     <img width="600"  alt="image" src="https://github.com/user-attachments/assets/62b663d4-0528-4cf1-8fb1-b55efe39836a" />
-   - Loss reduction over epochs
-     <img width="600"  alt="image" src="https://github.com/user-attachments/assets/3dfe321e-060a-4bae-bc97-4a65b7bd576c" />
-     
+1. Transfer Learning (Xception)  
+   - Accuracy improvement over epochs  
+     ![Accuracy improvement over epochs](https://github.com/user-attachments/assets/6d69a7eb-dd34-4cba-8bbd-2fe00d0663c3)  
+     *Accuracy improvement over epochs*
 
-**Classification Results**
-<p>
-    <img width="400"  alt="image" src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" />
-    <p>
-    <img width="400"  alt="image" src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" />
-    <p>
-    <img width="400"  alt="image" src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" />
-</p>
+   - Loss reduction over epochs  
+     ![Loss reduction over epochs](https://github.com/user-attachments/assets/cdd93c88-deda-442f-ba13-ea75840feff7)  
+     *Loss reduction over epochs*
 
-**Confusion Matrix**
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15" />
+2. Custom CNN  
+   - Accuracy improvement over epochs  
+     ![Accuracy improvement over epochs](https://github.com/user-attachments/assets/62b663d4-0528-4cf1-8fb1-b55efe39836a)  
+     *Accuracy improvement over epochs*
+
+   - Loss reduction over epochs  
+     ![Loss reduction over epochs](https://github.com/user-attachments/assets/3dfe321e-060a-4bae-bc97-4a65b7bd576c)  
+     *Loss reduction over epochs*
+
+---
+
+**Classification Results**  
+![Classification Result 1](https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322)  
+*Classification Result 1*
+
+![Classification Result 2](https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5)  
+*Classification Result 2*
+
+![Classification Result 3](https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c)  
+*Classification Result 3*
+
+---
+
+**Confusion Matrix**  
+![Confusion Matrix](https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15)  
+*Confusion Matrix*
+
+---
 
 **Frontend Images**
 <p>
