@@ -15,7 +15,7 @@ By automating this classification process, the system aims to reduce diagnostic 
 - [Technologies Used](#-technologies-used)  
 - [How It Works](#-how-it-works)  
 - [Frontend](#-frontend)  
-- [Screenshots / Demos](#-screenshots--demos)  
+- [Screenshots](#-screenshots)  
 - [Contributing](#-contributing)  
 - [License](#-license)  
 - [Credits / Acknowledgments](#-credits--acknowledgments)  
@@ -67,7 +67,7 @@ The kaggle.json file contains your Kaggle API credentials (username and key) and
 -In public repos, use .gitignore to prevent it from being committed.
 -If your credentials are exposed, regenerate the key from your Kaggle account settings immediately.
 
-##🚀 Usage
+## 🚀 Usage
 1. Upload MRI images to the input directory.
 2. Run the model training cells in the notebook.
 3. Use the prediction function to classify MRI scans into relevant categories (e.g., epilepsy, non-epilepsy).
@@ -75,7 +75,7 @@ The kaggle.json file contains your Kaggle API credentials (username and key) and
       prediction = model.predict(mri_image)
       print(prediction)
 
-##🌟 Features
+## 🌟 Features
 1. Multi-sequence MRI image classification.
 2. Two models:
    - Transfer Learning with Xception.
