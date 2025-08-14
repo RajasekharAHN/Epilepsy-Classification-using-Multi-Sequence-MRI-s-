@@ -126,11 +126,13 @@ This shows the Streamlit interface with drag-and-drop upload for MRI scans.
   *Dataset Images*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95345f68-4ecb-4416-9091-9a60df047f89" alt="Training Dataset countplot" width="300">
+  <img src="https://github.com/user-attachments/assets/95345f68-4ecb-4416-9091-9a60df047f89" alt="Training Dataset countplot" width="500">
+   <br><em>Training Dataset countplot</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/917357a9-2345-4240-b274-ccef09791a1b" alt="Testing Dataset countplot" width="300">
+  <img src="https://github.com/user-attachments/assets/917357a9-2345-4240-b274-ccef09791a1b" alt="Testing Dataset countplot" width="500">
+  <br><em>Testing Dataset countplot</em>
 </p>
 
 ---
