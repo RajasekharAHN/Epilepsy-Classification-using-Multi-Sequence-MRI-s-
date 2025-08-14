@@ -104,7 +104,7 @@ The project implements two models for MRI-based epilepsy and brain abnormality c
 
 3. Model Architecture – Custom CNN
 This image shows the custom CNN structure with convolutional layers, pooling, dropout, and dense layers.
-<img width="859" height="859" alt="image" src="https://github.com/user-attachments/assets/867b181d-e68d-4e24-9768-a346b6b408f9" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/867b181d-e68d-4e24-9768-a346b6b408f9" />
 
 ## 🖥 Frontend
 The project includes a Streamlit-based web application for real-time brain MRI classification.
