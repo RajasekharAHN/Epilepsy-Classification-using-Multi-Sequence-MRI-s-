@@ -157,21 +157,28 @@ This shows the Streamlit interface with drag-and-drop upload for MRI scans.
 ---
 
 **Classification Results**  
-![Classification Result 1](https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322)  
-*Classification Result 1*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" alt="Classification Result 1" width="300">
+  <br><em>Classification Result 1</em>
+</p>
 
-![Classification Result 2](https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5)  
-*Classification Result 2*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" alt="Classification Result 2" width="300">
+  <br><em>Classification Result 2</em>
+</p>
 
-![Classification Result 3](https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c)  
-*Classification Result 3*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" alt="Classification Result 3" width="300">
+  <br><em>Classification Result 3</em>
+</p>
 
 ---
 
 **Confusion Matrix**  
-![Confusion Matrix](https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15)  
-*Confusion Matrix*
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15" alt="Confusion Matrix" width="300">
+  <br><em>Confusion Matrix</em>
+</p>
 ---
 
 **Frontend Images**
