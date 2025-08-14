@@ -118,43 +118,43 @@ Purpose: Provide an easy-to-use interface for uploading MRI scans and instantly 
 This shows the Streamlit interface with drag-and-drop upload for MRI scans.
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/f0988610-af30-496a-88af-709194f69c2a" />
 
-## 🖼 Screenshots / Demos
+## 🖼 Screenshots 
 **MRI Samples**
 - Dataset Images
-<img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/37af0600-5e61-4605-8e4e-979cfab064fa" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/37af0600-5e61-4605-8e4e-979cfab064fa" />
 
 - Training Dataset countplot
-  <img width="1436" height="678" alt="image" src="https://github.com/user-attachments/assets/95345f68-4ecb-4416-9091-9a60df047f89" />
+  <img width="500"  alt="image" src="https://github.com/user-attachments/assets/95345f68-4ecb-4416-9091-9a60df047f89" />
 - Testing Dataset countplot
-  <img width="1410" height="679" alt="image" src="https://github.com/user-attachments/assets/917357a9-2345-4240-b274-ccef09791a1b" />
+  <img width="600"  alt="image" src="https://github.com/user-attachments/assets/917357a9-2345-4240-b274-ccef09791a1b" />
   
 
 **Model Training & Evaluation**
 1. Transfer Learning (Xception)
    - Accuracy improvement over epochs
-     <img width="940" height="341" alt="image" src="https://github.com/user-attachments/assets/6d69a7eb-dd34-4cba-8bbd-2fe00d0663c3" />
+     <img width="600"  alt="image" src="https://github.com/user-attachments/assets/6d69a7eb-dd34-4cba-8bbd-2fe00d0663c3" />
    -  Loss reduction over epochs
-      <img width="940" height="294" alt="image" src="https://github.com/user-attachments/assets/cdd93c88-deda-442f-ba13-ea75840feff7" />
+      <img width="600" alt="image" src="https://github.com/user-attachments/assets/cdd93c88-deda-442f-ba13-ea75840feff7" />
 2. Custom CNN
    - Accuracy improvement over epochs
-     <img width="940" height="328" alt="image" src="https://github.com/user-attachments/assets/62b663d4-0528-4cf1-8fb1-b55efe39836a" />
+     <img width="600"  alt="image" src="https://github.com/user-attachments/assets/62b663d4-0528-4cf1-8fb1-b55efe39836a" />
    - Loss reduction over epochs
-     <img width="940" height="287" alt="image" src="https://github.com/user-attachments/assets/3dfe321e-060a-4bae-bc97-4a65b7bd576c" />
+     <img width="600"  alt="image" src="https://github.com/user-attachments/assets/3dfe321e-060a-4bae-bc97-4a65b7bd576c" />
      
 
 **Classification Results**
 
-<img width="781" height="1108" alt="image" src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" />
-<img width="841" height="1169" alt="image" src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" />
-<img width="888" height="1170" alt="image" src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" />
 
 **Confusion Matrix**
-<img width="940" height="812" alt="image" src="https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15" />
 
 **Frontend Images**
-<img width="940" height="656" alt="image" src="https://github.com/user-attachments/assets/3aaff7e4-64b9-44cc-8ba3-79fd3f09a561" />
-<img width="940" height="788" alt="image" src="https://github.com/user-attachments/assets/9b379c1a-c261-4ca4-9fc5-fa22d129d3cd" />
-<img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/8c026ab2-93e2-469b-8b71-8523c8f88be4" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/3aaff7e4-64b9-44cc-8ba3-79fd3f09a561" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9b379c1a-c261-4ca4-9fc5-fa22d129d3cd" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/8c026ab2-93e2-469b-8b71-8523c8f88be4" />
 
 ## 🤝 Contributing
 - Contributions are welcome!
