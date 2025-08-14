@@ -144,12 +144,12 @@ This shows the Streamlit interface with drag-and-drop upload for MRI scans.
 
 **Classification Results**
 
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" />
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" />
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" />
 
 **Confusion Matrix**
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15" />
 
 **Frontend Images**
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/3aaff7e4-64b9-44cc-8ba3-79fd3f09a561" />
