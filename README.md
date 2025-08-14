@@ -104,7 +104,7 @@ The project implements two models for MRI-based epilepsy and brain abnormality c
 
 3. Model Architecture – Custom CNN
 This image shows the custom CNN structure with convolutional layers, pooling, dropout, and dense layers.
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/867b181d-e68d-4e24-9768-a346b6b408f9" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/867b181d-e68d-4e24-9768-a346b6b408f9" />
 
 ## 🖥 Frontend
 The project includes a Streamlit-based web application for real-time brain MRI classification.
@@ -121,7 +121,7 @@ This shows the Streamlit interface with drag-and-drop upload for MRI scans.
 ## 🖼 Screenshots 
 **MRI Samples**
 - Dataset Images
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/37af0600-5e61-4605-8e4e-979cfab064fa" />
+  <img width="600"  alt="image" src="https://github.com/user-attachments/assets/37af0600-5e61-4605-8e4e-979cfab064fa" />
 
 - Training Dataset countplot
   <img width="500"  alt="image" src="https://github.com/user-attachments/assets/95345f68-4ecb-4416-9091-9a60df047f89" />
@@ -143,18 +143,25 @@ This shows the Streamlit interface with drag-and-drop upload for MRI scans.
      
 
 **Classification Results**
-
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" />
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" />
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" />
+<p>
+    <img width="400"  alt="image" src="https://github.com/user-attachments/assets/914b7b2d-341d-4406-b868-259315e0c322" />
+    <p>
+    <img width="400"  alt="image" src="https://github.com/user-attachments/assets/8c02309a-9c80-4901-8cbe-8db851f63ee5" />
+    <p>
+    <img width="400"  alt="image" src="https://github.com/user-attachments/assets/c968e45d-51b5-47a9-9da0-c17ee6159a2c" />
+</p>
 
 **Confusion Matrix**
 <img width="400"  alt="image" src="https://github.com/user-attachments/assets/855d4d18-1524-474c-9a3e-17e787552b15" />
 
 **Frontend Images**
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/3aaff7e4-64b9-44cc-8ba3-79fd3f09a561" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/9b379c1a-c261-4ca4-9fc5-fa22d129d3cd" />
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/8c026ab2-93e2-469b-8b71-8523c8f88be4" />
+<p>
+    <img width="600"  alt="image" src="https://github.com/user-attachments/assets/3aaff7e4-64b9-44cc-8ba3-79fd3f09a561" />
+    <p>
+    <img width="600" alt="image" src="https://github.com/user-attachments/assets/9b379c1a-c261-4ca4-9fc5-fa22d129d3cd" />
+    <p>
+    <img width="600"  alt="image" src="https://github.com/user-attachments/assets/8c026ab2-93e2-469b-8b71-8523c8f88be4" />
+</p>
 
 ## 🤝 Contributing
 - Contributions are welcome!
