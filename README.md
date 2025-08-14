@@ -116,7 +116,7 @@ Purpose: Provide an easy-to-use interface for uploading MRI scans and instantly 
 - Runs locally or via ngrok for remote access.
 
 This shows the Streamlit interface with drag-and-drop upload for MRI scans.
-<img width="940" height="429" alt="image" src="https://github.com/user-attachments/assets/f0988610-af30-496a-88af-709194f69c2a" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/f0988610-af30-496a-88af-709194f69c2a" />
 
 ## 🖼 Screenshots / Demos
 **MRI Samples**
