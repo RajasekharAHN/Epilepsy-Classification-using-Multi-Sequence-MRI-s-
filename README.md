@@ -200,7 +200,8 @@ This shows the Streamlit interface with drag-and-drop upload for MRI scans.
 - Submit a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
+
 
 ## 🙏 Credits / Acknowledgments
 - Dataset providers and open-source MRI collections.
